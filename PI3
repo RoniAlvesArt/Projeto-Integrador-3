@@ -1,0 +1,11 @@
+package pi3;
+
+public class PI3 {
+
+    public static void main(String[] args) {
+        Aluno objeto = new Aluno();
+        objeto.cadastrarAluno();
+        
+    }
+    
+}
